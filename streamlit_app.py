@@ -6,3 +6,5 @@ streamlit.title('🥣 Fhalakurra fhappu')
 streamlit.title('🥗 Kakarkaya Karam')
 streamlit.title('🥑 Vankaya Pulusu')
 streamlit.title('🍞 Majjiga Charu')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Curry 🥝🍇')
